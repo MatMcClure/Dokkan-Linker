@@ -1,6 +1,11 @@
 .search-container {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 10px;
+}
+
+#header.navigator {
+  border: white;
+  border-radius: 40px;
 }
 
 form {
@@ -26,4 +31,12 @@ button {
 
 button:hover {
   background-color: #0056b3;
+}
+
+#header.navigator {
+  color: white;
+}
+
+#logo {
+  margin-left: 800px;
 }
